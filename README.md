@@ -16,7 +16,7 @@ them through Homebrew's checksum-verified downloads. Inspired by
 [Latest by Max Langer](https://github.com/mangerlahn/Latest). Built with SwiftUI
 and Swift Package Manager (no Xcode required, Command Line Tools are enough).
 
-<!-- TODO: add docs/screenshot.png of the Updates window here -->
+<p align="center"><img src="docs/screenshot.png" width="720" alt="Datest Updates window showing available and up-to-date apps"></p>
 
 ## Download
 
